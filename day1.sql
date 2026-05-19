@@ -1,0 +1,4 @@
+SELECT COUNT(*) 
+AS TOTAL_CUSTOMER 
+FROM Customer;
+
