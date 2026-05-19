@@ -6,7 +6,7 @@
 ---
 
 # 🎯 Topik Hari Ini
-Belajar dasar SQL menggunakan fungsi `COUNT()` pada database Chinook.
+Hari ini saya belajar bagaimana menghitung jumlah customer secara efisien menggunakan SQL. Saya mulai memahami bagaimana data analyst menggunakan query sederhana untuk memahami ukuran data sebelum melakukan analisis lanjutan.
 
 ---
 
