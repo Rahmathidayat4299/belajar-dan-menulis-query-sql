@@ -21,8 +21,8 @@ Hari ini saya belajar bagaimana menghitung jumlah customer secara efisien menggu
 ```sql
 SELECT COUNT(*) 
 AS TOTAL_CUSTOMER 
-FROM Customer;'''
-
+FROM Customer;
+'''
 # 💻 Output SQL
 TOTAL_CUSTOMER
 59
